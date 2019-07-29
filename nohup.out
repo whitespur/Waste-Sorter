@@ -1,0 +1,37 @@
+[W 22:31:48.713 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 22:31:48.714 NotebookApp] The port 8888 is already in use, trying another port.
+[I 22:31:48.794 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 22:31:48.794 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 22:31:48.796 NotebookApp] Serving notebooks from local directory: /root/ai/Waste-Sorter
+[I 22:31:48.796 NotebookApp] The Jupyter Notebook is running at:
+[I 22:31:48.796 NotebookApp] http://(instance-1lzplx8y or 127.0.0.1):8889/
+[I 22:31:48.796 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:31:48.803 NotebookApp] No web browser found: could not locate runnable browser.
+[W 22:36:05.476 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 22:36:05.516 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 22:36:05.517 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 22:36:05.518 NotebookApp] Serving notebooks from local directory: /root/ai/Waste-Sorter
+[I 22:36:05.519 NotebookApp] The Jupyter Notebook is running at:
+[I 22:36:05.519 NotebookApp] http://(instance-1lzplx8y or 127.0.0.1):8888/
+[I 22:36:05.519 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:36:05.522 NotebookApp] No web browser found: could not locate runnable browser.
+[W 22:36:18.411 NotebookApp] Notebook waster-sorter.ipynb is not trusted
+[W 22:36:32.468 NotebookApp] 404 GET /static/components/preact/preact.min.js.map (112.10.72.232) 12.27ms referer=None
+[W 22:36:32.473 NotebookApp] 404 GET /static/components/proptypes/index.js.map (112.10.72.232) 3.07ms referer=None
+[W 22:36:32.475 NotebookApp] 404 GET /static/components/preact-compat/preact-compat.min.js.map (112.10.72.232) 4.34ms referer=None
+[W 22:36:48.387 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190729223604 (112.10.72.232) 3.83ms referer=http://106.12.15.215:8888/notebooks/waster-sorter.ipynb
+[I 22:37:07.666 NotebookApp] Kernel started: aa50f9e0-494e-4751-ac63-b0d450fabc38
+[I 22:37:09.148 NotebookApp] Adapting to protocol v5.1 for kernel aa50f9e0-494e-4751-ac63-b0d450fabc38
+[I 22:39:13.244 NotebookApp] Saving file at /waster-sorter.ipynb
+[W 22:39:13.245 NotebookApp] Notebook waster-sorter.ipynb is not trusted
+[W 22:41:17.929 NotebookApp] Replacing stale connection: aa50f9e0-494e-4751-ac63-b0d450fabc38:65bc6b58a6924db78fcc4b391b0f2690
+[I 22:41:18.688 NotebookApp] Saving file at /waster-sorter.ipynb
+[W 22:41:18.689 NotebookApp] Notebook waster-sorter.ipynb is not trusted
+[I 22:41:22.931 NotebookApp] Starting buffering for aa50f9e0-494e-4751-ac63-b0d450fabc38:65bc6b58a6924db78fcc4b391b0f2690
+[I 22:41:22.932 NotebookApp] Adapting to protocol v5.1 for kernel aa50f9e0-494e-4751-ac63-b0d450fabc38
+[I 22:41:22.933 NotebookApp] Restoring connection for aa50f9e0-494e-4751-ac63-b0d450fabc38:65bc6b58a6924db78fcc4b391b0f2690
+[I 22:43:09.624 NotebookApp] Saving file at /waster-sorter.ipynb
+[W 22:43:09.625 NotebookApp] Notebook waster-sorter.ipynb is not trusted
+[I 22:45:08.182 NotebookApp] Saving file at /waster-sorter.ipynb
+[W 22:45:08.183 NotebookApp] Notebook waster-sorter.ipynb is not trusted
+[I 22:47:08.007 NotebookApp] Saving file at /waster-sorter.ipynb
